@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T19:00:04.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6tIhjpNWYiwZrxIm22TD" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T19:13:34.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="RmaAgjkk7eZEaz3QWqTA" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-22" value="OLD METHOD - NO LONGER USED" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;imageVerticalAlign=middle;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-22" value="OLD METHOD - NO LONGER USED" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;opacity=50;imageVerticalAlign=middle;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="580" width="700" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-2" value="Refreshed Daily" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;imageVerticalAlign=middle;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-2" value="PBI Service Refreshed Daily" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=50;imageVerticalAlign=middle;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="390" y="110" width="330" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-1" value="Refreshed Monthly on the 18th" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-1" value="Refreshed Monthly on the 18th" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="120" width="280" height="270" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
@@ -22,40 +22,40 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;PBI Monthly Snapshot&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="610" y="240" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="1ClU3SUQ2T3IdK77BwjU-19">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="1ClU3SUQ2T3IdK77BwjU-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Note Delinquency Snapshot" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="625" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-3" target="1ClU3SUQ2T3IdK77BwjU-19">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-3" target="1ClU3SUQ2T3IdK77BwjU-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-3" value="CSV Snapshot File" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-3" value="CSV Snapshot File" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410" y="690" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-6" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-6" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-6" value="Databricks Table &lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;Menlo&amp;quot;, &amp;quot;Consolas&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 13px; line-height: 20px;&quot;&gt;&lt;div&gt;silver_pbi_mill.&lt;b&gt;Additional_Notes&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-6" value="Databricks Table &lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;Menlo&amp;quot;, &amp;quot;Consolas&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 13px; line-height: 20px;&quot;&gt;&lt;div&gt;silver_pbi_mill.&lt;b&gt;Additional_Notes&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="150" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-7" target="WIyWlLk6GJQsqaUBKTNV-6">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-7" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-7" value="Databricks Table &lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;Menlo&amp;quot;, &amp;quot;Consolas&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 20px; font-size: 13px;&quot;&gt;&lt;div&gt;silver_pbi_mill.&lt;b&gt;note_snapShot&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-7" value="Databricks Table &lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;Menlo&amp;quot;, &amp;quot;Consolas&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; line-height: 20px; font-size: 13px;&quot;&gt;&lt;div&gt;silver_pbi_mill.&lt;b&gt;note_snapShot&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="250" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-12" target="WIyWlLk6GJQsqaUBKTNV-7">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-12" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-12" target="1ClU3SUQ2T3IdK77BwjU-3">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1ClU3SUQ2T3IdK77BwjU-12" target="1ClU3SUQ2T3IdK77BwjU-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-12" value="Databricks Table &lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;Menlo&amp;quot;, &amp;quot;Consolas&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 13px; line-height: 20px;&quot;&gt;&lt;div&gt;silver_pbi_mill.&lt;b&gt;note_delinquency_clinics&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-12" value="Databricks Table &lt;br&gt;&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(250, 250, 250); font-family: &amp;quot;Source Code Pro&amp;quot;, &amp;quot;Menlo&amp;quot;, &amp;quot;Consolas&amp;quot;, monospace, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 13px; line-height: 20px;&quot;&gt;&lt;div&gt;silver_pbi_mill.&lt;b&gt;note_delinquency_clinics&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="600" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1ClU3SUQ2T3IdK77BwjU-19" value="&lt;div&gt;PBI Monthly Snapshot&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="1ClU3SUQ2T3IdK77BwjU-19" value="&lt;div&gt;PBI Monthly Snapshot&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="590" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
